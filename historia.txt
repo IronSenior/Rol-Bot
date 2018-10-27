@@ -33,7 +33,7 @@ pertenencias
 
 -(2)
 Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
-tu amada se haya fallecida...
+tu amada se halla fallecida...
 Tu cobardía la ha matado. comienzas de nuevo    (0) 
 
 -(3)  AÑADES A INVENTARIO espada y poción
@@ -60,10 +60,10 @@ camino eliges?
 - (5)
 Entras en un pasillo largo, vas caminando con cuidado pues no está bien alumbrado
 conforme avanzas te das cuenta de que la sala se amplia y hay una sala mas grande
-y ves a un bandido distraido ¿Que haces?
+y ves a un bandido distraido ¿Qué haces?
 
 -OP 1 (8) sigilosamente atacas al enemigo
--OP 2 (9) cargas con fuerza contra el
+-OP 2 (9) cargas con fuerza contra él
 
 - (6)
 Llegas a una sala donde hay muchos estantes y en ellos hay posados armaduras,
