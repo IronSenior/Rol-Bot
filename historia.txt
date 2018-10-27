@@ -6,18 +6,18 @@ Bien, historia a desarrollar de Rol_bot.
 Eres un humilde aldeano, hijo del herrero de la villa.
 Un día consigues una cita con la chica que te gusta y por fin tienes oportunidad
 de hacer algo bueno en la vida, quedas con ella en el bosque, en el claro al lado
-del lago, a unos 30m adentrandose en el bosque.
+del lago, a unos 30 minutos adentrandose en el bosque.
 Esa chica es especial para ti, has estado enamorado de ella desde que llegó a la
 aldea hace casi 1 año, pero cuando llegas al lugar de encuentro, todo se tuerce...
 Ves a tu amada la cual esta en el suelo inmovilizada por un bandido, el cual le
 esta susurrando algo al oido...
 ¿Qué haces?
 
-- OP 1 Te tiras a por el (1)
+- OP 1 Te tiras a por él (1)
 - OP 2 Das marchas atrás y avisas a los guardias (2)
 
 -(1)
-Te lanzas con una rabia desmedida y consigues apartarlo, atrapado en la ira
+Te lanzas con una rabia desmedida contra el bandido y consigues apartarlo. Atrapado en la ira
 de ver a tu chica sufriendo empiezas a golpearlo cuando derrepente, todo para ti
 se vuelve negro y caes al suelo...
 Cuando recuperas la conciencia te das cuenta de que te han golpeado en la cabeza
@@ -26,15 +26,15 @@ queda el cuerpo del bandido en el suelo... Ves su espada en el suelo junto a sus
 pertenencias
 ¿Qué haces?
 
--OP 1 Cogo todas sus pertenencias y me voy a buscar a la chica       (3)
+-OP 1 Cojo todas sus pertenencias y me voy a buscar a la chica       (3)
 -OP 2 Dejo las pertenencias en su sitio y me voy a buscar a la chica (4)
 
 
 
--(2)
+- (2)
 Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
-tu amada se haya fallecida...
-Tu cobardía la ha matado. comienzas de nuevo
+tu amada se halla fallecida...
+Tu cobardía la ha matado. Comienzas de nuevo    (0) 
 
 -(3)  AÑADES A INVENTARIO espada y poción
 Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
@@ -60,10 +60,10 @@ camino eliges?
 - (5)
 Entras en un pasillo largo, vas caminando con cuidado pues no está bien alumbrado
 conforme avanzas te das cuenta de que la sala se amplia y hay una sala mas grande
-y ves a un bandido distraido ¿Que haces?
+y ves a un bandido distraido ¿Qué haces?
 
 -OP 1 (8) sigilosamente atacas al enemigo
--OP 2 (9) cargas con fuerza contra el
+-OP 2 (9) cargas con fuerza contra él
 
 - (6)
 Llegas a una sala donde hay muchos estantes y en ellos hay posados armaduras,
