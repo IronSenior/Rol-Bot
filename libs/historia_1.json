@@ -1,0 +1,14 @@
+{
+    "data":{
+        "nombre": "El caballero que se encuentra a su dama",
+        "n_parrafos": 11
+    },
+    "personaje" : {
+        "vida": 12,
+        "oro": 0
+    },
+    "0" :{
+        "txt": "Eres un caballero que se encuentra con su dama"
+        
+    }
+}
