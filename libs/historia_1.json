@@ -157,6 +157,144 @@
     },
 
     "7":{
-    
+        "txt":"Entras en un corto pasillo donde hay una alfombra bastante hortera, alumbrada con
+      varias lamparas de aceite y con varios cuadros un tanto espeluznantes donde se
+      ve a una familia posando, cuando habres la puerta del final... ¿Eh? Has vuelto al
+      principio...",
+      
+      "numero_opciones": "0",
 
+      "accion": [false,0],
+
+    },
+
+
+    "8":{
+  
+      "txt":"Te acercas sigilosamente e intentas dar una estocada",  
+      
+    
+      "accion":[true, 1 ]
+  
+      if (d20>enemigo.vida){
+
+   
+        "text": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
+    
+        hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
+    
+        haces?",
+
+        "numero_opciones": "2",
+
+    
+        "op_1":{
+    
+          "puntero": "10",
+    
+          "texto": "Camino de la izquierda",
+    
+        },
+    
+        "op_2":{
+    
+          "puntero": "11",
+    
+          "texto": "Camino de la derecha",    
+  
+      
+        },
+       
+  
+      }
+
+
+
+    if (d20<enemigo.vida){
+
+      "text":"Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
+      puñal en el estómago, acto seguido mueres desangrado...",
+
+      "numero_opciones":"0"
+
+
+    },
+},
+
+"9":{
+  "txt":"Cargas contra el con furia desmedida, esto alerta al contrincante...",  
+      
+    
+      "accion":[true, 1 ]
+  
+      if (d10>enemigo.vida){
+
+   
+        "text": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
+    
+        hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
+    
+        haces?",
+
+        "numero_opciones": "2",
+
+    
+        "op_1":{
+    
+          "puntero": "10",
+    
+          "texto": "Camino de la izquierda",
+    
+        },
+    
+        "op_2":{
+    
+          "puntero": "11",
+    
+          "texto": "Camino de la derecha",    
+  
+      
+        },
+       
+  
+      }
+
+
+
+    if (d10<enemigo.vida){
+
+      "text":"Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
+      puñal en el estómago, acto seguido mueres desangrado...",
+
+      "numero_opciones":"0"
+
+
+    },
+
+
+
+},
+
+"10":{
+
+  "text":"Sigues el pasillo de la derecha el cual te das cuenta de que va bajando lentamente
+  a medida que avanzas se hace mas inclinado y escurridizo, mierda, llega un punto
+  que apenas puedes apollarte y te estas escurriendo hacia abajo, te das cuenta que
+  al fonde hay una trampa con grandes clavas, mueres al instante...",
+
+  "numero_opciones": 0,
+
+  "accion": [false,0]
+},
+      
+"11":{
+
+  "text":"Entras a la sala donde ves a tu chica maniatada, la liberas y se agarra a tu cuello
+  entre llantos te agradece todo lo que has recorrido para salvarla, ¡ENHORABUENA!
+  HAS COMPLETADO LA HISTORIA",
+
+  "numero_opciones": 0,
+
+  "accion": [false,0]
+  
 }
