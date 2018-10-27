@@ -1,0 +1,27 @@
+Bien, historia a desarrollar de Rol_bot.
+
+----------------------------------------------------------------------------
+
+Eres un humilde aldeano, hijo del herrero de la villa.
+Un día consigues una cita con la chica que te gusta y por fin tienes oportunidad
+de hacer algo bueno en la vida, quedas con ella en el bosque, en el claro al lado
+del lago, a unos 30m adentrandose en el bosque.
+Esa chica es especial para ti, has estado enamorado de ella desde que llegó a la
+aldea hace casi 1 año, pero cuando llegas al lugar de encuentro, todo se tuerce...
+Ves a tu amada la cual esta en el suelo inmovilizada por un bandido, el cual le
+esta susurrando algo al oido...
+¿Qué haces?
+
+- OP 1 Te tiras a por el (1)
+- OP 2 Das marchas atrás y avisas a los guardias (2)
+
+-(1) Te lanzas con una rabia desmedida y consigues apartarlo, atrapado en la ira
+de ver a tu chica sufriendo empiezas a golpearlo cuando derrepente, todo para ti
+se vuelve negro y caes al suelo...
+Cuando recuperas la conciencia te das cuenta de que te han golpeado en la cabeza
+y que perdiste la conciencia, no consigues ver a la chica, se la han llevado,
+queda el cuerpo del bandido en el suelo...
+
+-(2)  Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
+tu amada se haya fallecida...
+Tu cobardía la ha matado. comienzas de nuevo

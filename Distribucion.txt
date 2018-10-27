@@ -1,0 +1,6 @@
+Rol_bot:
+
+-Distribucion:
+
+1º Crear repositorio en github
+2º Encontrar la base del bot (github/sgomez)
