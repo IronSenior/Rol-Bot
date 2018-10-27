@@ -179,6 +179,7 @@
 
         "accion":[true, 20],
         "numero_opciones": 0,
+        "opciones": [12, 13]
 
 
       },
@@ -189,6 +190,7 @@
 
       "accion":[true, 10],
       "numero_opciones": 0,
+      "opciones": [14, 15]
 
     },
 
