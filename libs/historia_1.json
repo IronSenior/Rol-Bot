@@ -123,7 +123,7 @@
       conforme avanzas te das cuenta de que la sala se amplia y hay una sala mas grande
       y ves a un bandido distraido ¿Qué haces?",
 
-      "numero_opciones": "2",
+      "numero_opciones": 2,
 
       "accion": [false,0],
 
@@ -142,7 +142,7 @@
       ves que hay una que se ajuste perfectamente a tu medida, te la pones y continuas
       hacia la puerta, la cual abres y te encuentras una bifurcación ¿Qué haces?",
 
-      "numero_opciones": "2",
+      "numero_opciones": 2,
 
       "accion": [false,0],
 
@@ -161,105 +161,64 @@
       varias lamparas de aceite y con varios cuadros un tanto espeluznantes donde se
       ve a una familia posando, cuando habres la puerta del final... ¿Eh? Has vuelto al
       principio...",
-      
-      "numero_opciones": "0",
+
+      "numero_opciones": 2,
 
       "accion": [false,0],
+
+      "op_1":{
+        "puntero": "4",
+        "texto": "...",
+      },
 
     },
 
 
     "8":{
-  
-      "txt":"Te acercas sigilosamente e intentas dar una estocada",  
-      
-    
-      "accion":[true, 1 ]
-  
-      if (d20>enemigo.vida){
+      "txt":"Te acercas sigilosamente e intentas dar una estocada",
 
-   
-        "text": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
-    
-        hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
-    
-        haces?",
+        "accion":[true, 20],
 
         "numero_opciones": "2",
 
-    
+
         "op_1":{
-    
           "puntero": "10",
-    
           "texto": "Camino de la izquierda",
-    
         },
-    
+
         "op_2":{
-    
           "puntero": "11",
-    
-          "texto": "Camino de la derecha",    
-  
-      
+          "texto": "Camino de la derecha",
         },
-       
-  
-      }
+      },
 
 
+    "9":{
+      "txt":"Cargas contra el con furia desmedida, esto alerta al contrincante...",
 
-    if (d20<enemigo.vida){
-
-      "text":"Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
-      puñal en el estómago, acto seguido mueres desangrado...",
-
-      "numero_opciones":"0"
-
-
-    },
-},
-
-"9":{
-  "txt":"Cargas contra el con furia desmedida, esto alerta al contrincante...",  
-      
-    
       "accion":[true, 1 ]
-  
+
       if (d10>enemigo.vida){
-
-   
-        "text": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
-    
+        "text":"Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
         hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
-    
         haces?",
 
         "numero_opciones": "2",
 
-    
+
         "op_1":{
-    
           "puntero": "10",
-    
           "texto": "Camino de la izquierda",
-    
+
         },
-    
+
         "op_2":{
-    
           "puntero": "11",
-    
-          "texto": "Camino de la derecha",    
-  
-      
+          "texto": "Camino de la derecha",
+
         },
-       
-  
       }
-
-
 
     if (d10<enemigo.vida){
 
@@ -268,11 +227,7 @@
 
       "numero_opciones":"0"
 
-
     },
-
-
-
 },
 
 "10":{
@@ -282,11 +237,11 @@
   que apenas puedes apollarte y te estas escurriendo hacia abajo, te das cuenta que
   al fonde hay una trampa con grandes clavas, mueres al instante...",
 
-  "numero_opciones": 0,
+  "numero_opciones": 1,
 
   "accion": [false,0]
 },
-      
+
 "11":{
 
   "text":"Entras a la sala donde ves a tu chica maniatada, la liberas y se agarra a tu cuello
@@ -296,5 +251,5 @@
   "numero_opciones": 0,
 
   "accion": [false,0]
-  
+
 }
