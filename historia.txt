@@ -2,6 +2,7 @@ Bien, historia a desarrollar de Rol_bot.
 
 ----------------------------------------------------------------------------
 
+-(0)
 Eres un humilde aldeano, hijo del herrero de la villa.
 Un día consigues una cita con la chica que te gusta y por fin tienes oportunidad
 de hacer algo bueno en la vida, quedas con ella en el bosque, en el claro al lado
@@ -15,13 +16,118 @@ esta susurrando algo al oido...
 - OP 1 Te tiras a por el (1)
 - OP 2 Das marchas atrás y avisas a los guardias (2)
 
--(1) Te lanzas con una rabia desmedida y consigues apartarlo, atrapado en la ira
+-(1)
+Te lanzas con una rabia desmedida y consigues apartarlo, atrapado en la ira
 de ver a tu chica sufriendo empiezas a golpearlo cuando derrepente, todo para ti
 se vuelve negro y caes al suelo...
 Cuando recuperas la conciencia te das cuenta de que te han golpeado en la cabeza
 y que perdiste la conciencia, no consigues ver a la chica, se la han llevado,
-queda el cuerpo del bandido en el suelo...
+queda el cuerpo del bandido en el suelo... Ves su espada en el suelo junto a sus
+pertenencias
+¿Qué haces?
 
--(2)  Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
+-OP 1 Cogo todas sus pertenencias y me voy a buscar a la chica       (3)
+-OP 2 Dejo las pertenencias en su sitio y me voy a buscar a la chica (4)
+
+
+
+-(2)
+Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
 tu amada se haya fallecida...
 Tu cobardía la ha matado. comienzas de nuevo
+
+-(3)  AÑADES A INVENTARIO espada y poción
+Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
+una antigua mina enana y te dispones a entrar. Cuando entras te das cuenta de
+que esta mina tiene una particularidad, en la entrada hay tres puertas, ¿Qué
+camino eliges?
+
+- OP 1 (5)
+- OP 2 (6)
+- OP 3 (7)
+
+
+- (4)
+Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
+una antigua mina enana y te dispones a entrar. Cuando entras te das cuenta de
+que esta mina tiene una particularidad, en la entrada hay tres puertas, ¿Qué
+camino eliges?
+
+- OP 1 (5)
+- OP 2 (6)
+- OP 3 (7)
+
+- (5)
+Entras en un pasillo largo, vas caminando con cuidado pues no está bien alumbrado
+conforme avanzas te das cuenta de que la sala se amplia y hay una sala mas grande
+y ves a un bandido distraido ¿Que haces?
+
+-OP 1 (8) sigilosamente atacas al enemigo
+-OP 2 (9) cargas con fuerza contra el
+
+- (6)
+Llegas a una sala donde hay muchos estantes y en ellos hay posados armaduras,
+ves que hay una que se ajuste perfectamente a tu medida, te la pones y continuas
+hacia la puerta, la cual abres y te encuentras una bifurcación ¿Qué haces?
+
+-OP 1 (10)
+-OP 2 (11)
+
+- (7)
+Entras en un corto pasillo donde hay una alfombra bastante hortera, alumbrada con
+varias lamparas de aceite y con varios cuadros un tanto espeluznantes donde se
+ve a una familia posando, cuando habres la puerta del final... ¿Eh? Has vuelto al
+principio...
+
+-OP 1 (4)
+
+- (8)
+Te acercas sigilosamente e intentas dar una estocada
+"d20" if (d20 > 6){
+Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
+hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
+haces?
+
+-OP 1 (10)
+-OP 2 (11)
+}
+
+"d20" if (d20 < 6){
+Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
+puñal en el estómago, acto seguido mueres desangrado...
+
+-OP 1 (0)
+}
+
+- (9)
+Cargas contra el con furia desmedida, esto alerta al contrincante...
+"d10" if (d10 > 6){
+Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
+hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
+haces?
+
+-OP 1 (10)
+-OP 2 (11)
+}
+
+"d10" if (d10 < 6){
+Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
+puñal en el estómago, acto seguido mueres desangrado...
+
+-OP 1 (0)
+}
+
+- (10)
+Sigues el pasillo de la derecha el cual te das cuenta de que va bajando lentamente
+a medida que avanzas se hace mas inclinado y escurridizo, mierda, llega un punto
+que apenas puedes apollarte y te estas escurriendo hacia abajo, te das cuenta que
+al fonde hay una trampa con grandes clavas, mueres al instante...
+
+-OP 1 (0)
+
+- (11)
+Entras a la sala donde ves a tu chica maniatada, la liberas y se agarra a tu cuello
+entre llantos te agradece todo lo que has recorrido para salvarla, ¡ENHORABUENA!
+HAS COMPLETADO LA HISTORIA
+
+-OP 1 (0)
