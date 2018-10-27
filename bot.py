@@ -3,7 +3,7 @@ from libs import usuario, historia
 import telebot
 import json
 
-bot = telebot.TeleBot("599981179:AAEdRsgEV5KJFvK-A7GJlMU90vgI2qHa0Gk")
+bot = telebot.TeleBot("")
 
 
 @bot.message_handler(commands=['start', 'help'])
