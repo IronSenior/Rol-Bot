@@ -8,15 +8,7 @@
         "oro": 0
     },
     "0" :{
-        "txt": "Eres un humilde aldeano, hijo del herrero de la villa.
-        Un día consigues una cita con la chica que te gusta y por fin tienes oportunidad
-        de hacer algo bueno en la vida, quedas con ella en el bosque, en el claro al lado
-        del lago, a unos 30 minutos adentrandose en el bosque.
-        Esa chica es especial para ti, has estado enamorado de ella desde que llegó a la
-        aldea hace casi 1 año, pero cuando llegas al lugar de encuentro, todo se tuerce...
-        Ves a tu amada la cual esta en el suelo inmovilizada por un bandido, el cual le
-        esta susurrando algo al oido...
-        ¿Qué haces?",
+        "txt": "Eres un humilde aldeano, hijo del herrero de la villa. Un día consigues una cita con la chica que te gusta y por fin tienes oportunidad de hacer algo bueno en la vida, quedas con ella en el bosque, en el claro al lado del lago, a unos 30 minutos adentrandose en el bosque. Esa chica es especial para ti, has estado enamorado de ella desde que llegó a la aldea hace casi 1 año, pero cuando llegas al lugar de encuentro, todo se tuerce... Ves a tu amada la cual esta en el suelo inmovilizada por un bandido, el cual le esta susurrando algo al oido... ¿Qué haces?",
 
         "numero_opciones": 2,
 
@@ -24,23 +16,16 @@
 
         "op_1":{
           "puntero": "1",
-          "texto": "Te tiras a por el",
+          "texto": "Te tiras a por el"
         },
         "op_2":{
           "puntero": "2",
-          "texto": "Das marcha atrás y avisas a los guardias",
-        },
+          "texto": "Das marcha atrás y avisas a los guardias"
+        }
     },
 
     "1" :{
-      "txt": "Te lanzas con una rabia desmedida contra el bandido y consigues apartarlo. Atrapado en la ira
-      de ver a tu chica sufriendo empiezas a golpearlo cuando derrepente, todo para ti
-      se vuelve negro y caes al suelo...
-      Cuando recuperas la conciencia te das cuenta de que te han golpeado en la cabeza
-      y que perdiste la conciencia, no consigues ver a la chica, se la han llevado,
-      queda el cuerpo del bandido en el suelo... Ves su espada en el suelo junto a sus
-      pertenencias
-      ¿Qué haces?",
+      "txt": "Te lanzas con una rabia desmedida contra el bandido y consigues apartarlo. Atrapado en la ira de ver a tu chica sufriendo empiezas a golpearlo cuando derrepente, todo para ti se vuelve negro y caes al suelo... Cuando recuperas la conciencia te das cuenta de que te han golpeado en la cabeza y que perdiste la conciencia, no consigues ver a la chica, se la han llevado, queda el cuerpo del bandido en el suelo... Ves su espada en el suelo junto a sus pertenencias ¿Qué haces?",
 
       "numero_opciones": 2,
 
@@ -48,19 +33,17 @@
 
       "op_1":{
         "puntero": "3",
-        "texto": "Coger la espada y encontrar el rastro de la chica",
+        "texto": "Coger la espada y encontrar el rastro de la chica"
       },
 
       "op_2":{
         "puntero": "4",
         "texto": "encontrar el rastro de la chica",
-      },
+      }
     },
 
     "2":{
-      "txt": "Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
-      tu amada se halla fallecida...
-      Tu cobardía la ha matado. Comienzas de nuevo",
+      "txt": "Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas tu amada se halla fallecida... Tu cobardía la ha matado. Comienzas de nuevo",
 
       "numero_opciones": 0,
 
@@ -68,10 +51,7 @@
     },
 
     "3":{
-      "txt": "Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
-      una antigua mina enana y te dispones a entrar. Cuando entras te das cuenta de
-      que esta mina tiene una particularidad, en la entrada hay tres puertas, ¿Qué
-      camino eliges?",
+      "txt": "Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de una antigua mina enana y te dispones a entrar. Cuando entras te das cuenta de que esta mina tiene una particularidad, en la entrada hay tres puertas, ¿Qué camino eliges?",
 
       "numero_opciones": 3,
 
@@ -79,26 +59,20 @@
 
       "op_1":{
         "puntero": "5",
-        "texto": "Elegir puerta de la derecha",
+        "texto": "Elegir puerta de la derecha"
       },
       "op_2":{
         "puntero": "6",
-        "texto": "Elegir puerta del medio",
+        "texto": "Elegir puerta del medio"
       },
       "op_3":{
         "puntero": "7",
-        "texto": "Elegir puerta de la izquierda",
-      },
+        "texto": "Elegir puerta de la izquierda"
+      }
     },
 
     "4":{
-      "txt": "Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
-      una antigua mina enana y te dispones a entrar. Antes de llegar, tu instinto te
-      dice que encuentres un arma, pues la cosa se puede complicar, y tomas la espada
-      del suelo que hay junto a un cadáver.
-      Cuando entras te das cuenta de que esta mina tiene una particularidad, en la entrada
-      hay tres puertas,
-      ¿Qué camino eliges?",
+      "txt": "Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de una antigua mina enana y te dispones a entrar. Antes de llegar, tu instinto te dice que encuentres un arma, pues la cosa se puede complicar, y tomas la espada del suelo que hay junto a un cadáver. Cuando entras te das cuenta de que esta mina tiene una particularidad, en la entrada hay tres puertas, ¿Qué camino eliges?",
 
       "numero_opciones": 3,
 
@@ -106,22 +80,20 @@
 
       "op_1":{
         "puntero": "5",
-        "texto": "Elegir puerta de la derecha",
+        "texto": "Elegir puerta de la derecha"
       },
       "op_2":{
         "puntero": "6",
-        "texto": "Elegir puerta del medio",
+        "texto": "Elegir puerta del medio"
       },
       "op_3":{
         "puntero": "7",
-        "texto": "Elegir puerta de la izquierda",
-      },
+        "texto": "Elegir puerta de la izquierda"
+      }
     },
 
     "5":{
-      "txt": "Entras en un pasillo largo, vas caminando con cuidado pues no está bien alumbrado
-      conforme avanzas te das cuenta de que la sala se amplia y hay una sala mas grande
-      y ves a un bandido distraido ¿Qué haces?",
+      "txt": "Entras en un pasillo largo, vas caminando con cuidado pues no está bien alumbrado conforme avanzas te das cuenta de que la sala se amplia y hay una sala mas grande y ves a un bandido distraido ¿Qué haces?",
 
       "numero_opciones": 2,
 
@@ -129,18 +101,16 @@
 
       "op_1":{
         "puntero": "8",
-        "texto": "Atacar al enemigo sigilosamente",
+        "texto": "Atacar al enemigo sigilosamente"
       },
       "op_2":{
         "puntero": "9",
-        "texto": "Atacar al enemigo estrepitosamente",
-      },
+        "texto": "Atacar al enemigo estrepitosamente"
+      }
     },
 
     "6":{
-      "txt": "Llegas a una sala donde hay muchos estantes y en ellos hay posados armaduras,
-      ves que hay una que se ajuste perfectamente a tu medida, te la pones y continuas
-      hacia la puerta, la cual abres y te encuentras una bifurcación ¿Qué haces?",
+      "txt": "Llegas a una sala donde hay muchos estantes y en ellos hay posados armaduras, ves que hay una que se ajuste perfectamente a tu medida, te la pones y continuas hacia la puerta, la cual abres y te encuentras una bifurcación ¿Qué haces?",
 
       "numero_opciones": 2,
 
@@ -148,19 +118,16 @@
 
       "op_1":{
         "puntero": "10",
-        "texto": "Camino de la izquierda",
+        "texto": "Camino de la izquierda"
       },
       "op_2":{
         "puntero": "11",
-        "texto": "Camino de la derecha",
-      },
+        "texto": "Camino de la derecha"
+      }
     },
 
     "7":{
-        "txt":"Entras en un corto pasillo donde hay una alfombra bastante hortera, alumbrada con
-      varias lamparas de aceite y con varios cuadros un tanto espeluznantes donde se
-      ve a una familia posando, cuando habres la puerta del final... ¿Eh? Has vuelto al
-      principio...",
+        "txt":"Entras en un corto pasillo donde hay una alfombra bastante hortera, alumbrada con varias lamparas de aceite y con varios cuadros un tanto espeluznantes donde se ve a una familia posando, cuando habres la puerta del final... ¿Eh? Has vuelto al principio...",
 
       "numero_opciones": 2,
 
@@ -168,8 +135,8 @@
 
       "op_1":{
         "puntero": "4",
-        "texto": "...",
-      },
+        "texto": "..."
+      }
 
     },
 
@@ -195,10 +162,7 @@
     },
 
   "10":{
-  "txt":"Sigues el pasillo de la derecha el cual te das cuenta de que va bajando lentamente
-  a medida que avanzas se hace mas inclinado y escurridizo, mierda, llega un punto
-  que apenas puedes apollarte y te estas escurriendo hacia abajo, te das cuenta que
-  al fonde hay una trampa con grandes clavas, mueres al instante...",
+  "txt":"Sigues el pasillo de la derecha el cual te das cuenta de que va bajando lentamente a medida que avanzas se hace mas inclinado y escurridizo, mierda, llega un punto que apenas puedes apollarte y te estas escurriendo hacia abajo, te das cuenta que al fonde hay una trampa con grandes clavas, mueres al instante...",
 
   "numero_opciones": 1,
 
@@ -206,9 +170,7 @@
 },
 
   "11":{
-  "txt":"Entras a la sala donde ves a tu chica maniatada, la liberas y se agarra a tu cuello
-  entre llantos te agradece todo lo que has recorrido para salvarla, ¡ENHORABUENA!
-  HAS COMPLETADO LA HISTORIA",
+  "txt":"Entras a la sala donde ves a tu chica maniatada, la liberas y se agarra a tu cuello entre llantos te agradece todo lo que has recorrido para salvarla, ¡ENHORABUENA! HAS COMPLETADO LA HISTORIA",
 
   "numero_opciones": 0,
 
@@ -217,56 +179,50 @@
   },
 
   "12":{
-    "txt": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
-    hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
-    haces?",
+    "txt": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué haces?",
 
     "numero_opciones": 2,
     "accion": [false,0],
 
      "op_1":{
               "puntero": "10",
-              "texto": "Camino de la izquierda",
+              "texto": "Camino de la izquierda"
             },
 
             "op_2":{
               "puntero": "11",
-              "texto": "Camino de la derecha",
-            },
+              "texto": "Camino de la derecha"
+            }
     },
 
     "13":{
-      "txt":"Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
-      puñal en el estómago, acto seguido mueres desangrado...",
+      "txt":"Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un puñal en el estómago, acto seguido mueres desangrado...",
 
       "numero_opciones": 0,
-      "accion": [false,0],
+      "accion": [false,0]
     },
 
     "14":{
-      "txt": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
-      hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
-      haces?",
+      "txt": "Consigues ensartar tu espada en su espalda y consigues taparle la boca para no hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué haces?",
 
       "numero_opciones": 2,
       "accion": [false,0],
 
        "op_1":{
                 "puntero": "10",
-                "texto": "Camino de la izquierda",
+                "texto": "Camino de la izquierda"
               },
 
               "op_2":{
                 "puntero": "11",
-                "texto": "Camino de la derecha",
-              },
+                "texto": "Camino de la derecha"
+              }
     },
 
     "15":{
-      "txt":"Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
-      puñal en el estómago, acto seguido mueres desangrado...",
+      "txt":"Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un puñal en el estómago, acto seguido mueres desangrado...",
 
       "numero_opciones": 0,
-      "accion": [false,0],
-    },
+      "accion": [false,0]
+    }
 }
