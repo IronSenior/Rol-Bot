@@ -83,7 +83,7 @@ principio...
 
 - (8)
 Te acercas sigilosamente e intentas dar una estocada
-"d20" if (d20 > 6){
+"d20" if (d20 > enemigo.vida){
 Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
 hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
 haces?
@@ -92,7 +92,7 @@ haces?
 -OP 2 (11)
 }
 
-"d20" if (d20 < 6){
+"d20" if (d20 < enemigo.vida){
 Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
 puñal en el estómago, acto seguido mueres desangrado...
 
@@ -101,7 +101,7 @@ puñal en el estómago, acto seguido mueres desangrado...
 
 - (9)
 Cargas contra el con furia desmedida, esto alerta al contrincante...
-"d10" if (d10 > 6){
+"d10" if (d10 > enemigo.vida){
 Consigues ensartar tu espada en su espalda y consigues taparle la boca para no
 hacer ruido alguno, consigues salir de la sala y encuentras una bifurcación ¿Qué
 haces?
@@ -110,7 +110,7 @@ haces?
 -OP 2 (11)
 }
 
-"d10" if (d10 < 6){
+"d10" if (d10 < enemigo.vida){
 Cuando intestas atacarle, se da cuenta de tu presencia y rapidamente te clava un
 puñal en el estómago, acto seguido mueres desangrado...
 
