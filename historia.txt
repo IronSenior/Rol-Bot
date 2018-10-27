@@ -34,7 +34,7 @@ pertenencias
 -(2)
 Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
 tu amada se haya fallecida...
-Tu cobardía la ha matado. comienzas de nuevo
+Tu cobardía la ha matado. comienzas de nuevo    (0) 
 
 -(3)  AÑADES A INVENTARIO espada y poción
 Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
