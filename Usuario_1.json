@@ -1,9 +1,7 @@
 {
     "Usuario":{
-        "Nombre": "Elige un nombre para por su personaje",
-        "vida": 12,
-        "oro": 0
-        
-    }
+        "Historia_asignada": "1",
+        "Logros": "0",
+    },
 
 }

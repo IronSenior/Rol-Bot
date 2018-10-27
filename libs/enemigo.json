@@ -1,0 +1,11 @@
+{
+  "data":{
+    "name":"enemigo",
+    "n_atributos":"",
+  },
+
+  "id": "bandido",
+  "loot": "1",
+  "vida": "personaje.vida/2"
+
+}
