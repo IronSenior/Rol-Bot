@@ -26,7 +26,7 @@ queda el cuerpo del bandido en el suelo... Ves su espada en el suelo junto a sus
 pertenencias
 ¿Qué haces?
 
--OP 1 Cogo todas sus pertenencias y me voy a buscar a la chica       (3)
+-OP 1 Cojo todas sus pertenencias y me voy a buscar a la chica       (3)
 -OP 2 Dejo las pertenencias en su sitio y me voy a buscar a la chica (4)
 
 
