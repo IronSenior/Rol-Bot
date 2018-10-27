@@ -1,3 +1,4 @@
+#Clase usuario (Quizas solo se quede en json)
 import game
 
 class User:
@@ -5,6 +6,7 @@ class User:
         self._userID = uid
         self._player = game.Player()
 
+    #Devuelve la id
     def getID(self):
         return self._userID
         
