@@ -2,19 +2,20 @@
 import json
 
 class Historia:
-
-    nombre_arch = ""
-    codigo = ""
-    parraf_counter = 0
-
     def __init__(self, code):
         self.codigo = code
         self.nombre_arch = "hitoria_" + str(code)
+        self.parraf_counter = 0
 
-    def getParrafo():
+    def getParrafo(self):
         with open(self.nombre_arch, 'r') as histfile:
             hist = json.load(histfile)
-             return hist[self.parraf_counter]
+            return hist[self.parraf_counter]
 
-    def setParrafo(counter = (self.parraf_counter + 1)):
-        self.parraf_counter = counter
+    def setParrafo(self, counter = 0):
+        if counter:
+            self.parraf_counter = counter
+        else:
+            self.parraf_counter += 1
+
+

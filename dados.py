@@ -3,9 +3,8 @@ import random
 
 #Clase que representa un d20
 class dado12:
-    resultado = 0
     def __init__(self):
-        pass
+        self.resultado = 0
 
     def tirada(self):
         self.resultado = random.randint(1,20)
@@ -13,9 +12,8 @@ class dado12:
 
 #Clase que representa un d10
 class dado10:
-    resultado = 0
     def __init__(self):
-        pass
+        self.resultado = 0
 
     def tirada(self):
         self.resultado = random.randint(1,10)
@@ -23,9 +21,8 @@ class dado10:
 
 #Clase que representa un d8
 class dado8:
-    resultado = 0
     def __init__(self):
-        pass
+        self.resultado = 0
 
     def tirada(self):
         self.resultado = random.randint(1,8)
