@@ -31,10 +31,10 @@ pertenencias
 
 
 
-- (2)
+-(2)
 Vuelves a llamar a los soldados, pierdes bastante tiempo, y cuando llegas
 tu amada se halla fallecida...
-Tu cobardía la ha matado. Comienzas de nuevo    (0) 
+Tu cobardía la ha matado. Comienzas de nuevo    (0)
 
 -(3)  AÑADES A INVENTARIO espada y poción
 Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
@@ -49,9 +49,12 @@ camino eliges?
 
 - (4)
 Marchas tras los rastros que encuentras por el bosque y llegas a las ruinas de
-una antigua mina enana y te dispones a entrar. Cuando entras te das cuenta de
-que esta mina tiene una particularidad, en la entrada hay tres puertas, ¿Qué
-camino eliges?
+una antigua mina enana y te dispones a entrar. Antes de llegar, tu instinto te
+dice que encuentres un arma, pues la cosa se puede complicar, y tomas la espada
+del suelo que hay junto a un cadáver.
+Cuando entras te das cuenta de que esta mina tiene una particularidad, en la entrada
+hay tres puertas,
+¿Qué camino eliges?
 
 - OP 1 (5)
 - OP 2 (6)
