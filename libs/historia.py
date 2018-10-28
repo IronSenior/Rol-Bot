@@ -1,14 +1,15 @@
 # -*- coding: utf-8 -*-
 #Definicion de clase historia
 import json
-from telebot import *
+import telebot
 
+#Devuelve toda la información de una Historia (Solo hay una)
 def getHistoria():
-    with open("./libs/historia_1.json", "r") as file:
+    with open("./DB/historia_1.json", "r") as file:
         dct = json.load(file)
         return dct
 
-
+#Devuelve el parrafo y las opciones de este
 def getKayboard(parrafo, dct = getHistoria()):
         #Nombre del teclado, se llama a el desde bot.py
         keyboard_historia = types.InlineKeyboardMarkup()
@@ -27,6 +28,7 @@ def getKayboard(parrafo, dct = getHistoria()):
 
         return dct[parrafo]["txt"], keyboard_historia
 
+#Devuelve el parrago al que apunta la eleccion tomada en el anterior
 def getsigparrafo(ant_parrafo, op):
     dct = getHistoria()
     return dct[str(ant_parrafo)][str(op)]["puntero"]
